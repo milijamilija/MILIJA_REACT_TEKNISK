@@ -3,7 +3,7 @@ import './App.css'
 import Count from "./Components/Count"
 
 function App() {
-  const [count, setCount] = useState(0)
+  const [count, setCount] = useState(0)  // alerede funker
 
   return (
     <div>
